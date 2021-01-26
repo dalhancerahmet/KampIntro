@@ -3,7 +3,7 @@
 namespace KampIntro
 {
     class Program
-    {
+    { //test
         static void Main(string[] args)
         {
             Urunler[] urunlers = new Urunler[] {
